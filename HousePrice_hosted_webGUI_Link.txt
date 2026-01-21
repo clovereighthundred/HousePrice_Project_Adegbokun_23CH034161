@@ -1,0 +1,6 @@
+Name: Adegbokun Adefela
+Matric Number: 23CH034161
+Machine Learning Algorithm Used: RandomForestRegressor
+Model persistence method used: joblib
+Live URL of the hosted application: https://your-streamlit-app-url
+GitHub repository link: https://github.com/yourname/HousePrice_Project_yourName_matricNo
